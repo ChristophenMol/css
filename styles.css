@@ -29,8 +29,9 @@ h2 {
 }
 
 .intro {
-  width: 50%;
+  width: 80%;
   margin: auto;
+  text-align: center;
 }
 .design {
   width: 25%;
@@ -80,6 +81,7 @@ a {
 .profile {
   width: 40%;
   margin: 25px auto 10px auto;
+ 
 }
 
 .middle-container {
