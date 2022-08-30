@@ -31,7 +31,6 @@ h2 {
 .intro {
   width: 80%;
   margin: auto;
-  text-align: center;
 }
 .design {
   width: 25%;
@@ -90,7 +89,7 @@ a {
 }
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 50px 0 50px;
 }
 
 .footer {
@@ -99,6 +98,7 @@ a {
 }
 .footer-link {
   word-wrap:normal;
+  padding: 0 20px 0 20px;
   margin: auto;
   display: inline-block;
   text-decoration: none;
